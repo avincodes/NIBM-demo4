@@ -1,3 +1,3 @@
 # NIBM-demo4
 
-This is a demo repo for tikirimarie to edit! 🐰
+This is a demo repo for Jambole to edit! 🐰
